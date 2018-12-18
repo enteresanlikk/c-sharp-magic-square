@@ -1,0 +1,7 @@
+D:\Bilgisayar Programcılığı\2. Sınıf\Güz\C# Programlama\MagicSquare\MagicSquare\bin\Debug\MagicSquare.exe.config
+D:\Bilgisayar Programcılığı\2. Sınıf\Güz\C# Programlama\MagicSquare\MagicSquare\bin\Debug\MagicSquare.exe
+D:\Bilgisayar Programcılığı\2. Sınıf\Güz\C# Programlama\MagicSquare\MagicSquare\bin\Debug\MagicSquare.pdb
+D:\Bilgisayar Programcılığı\2. Sınıf\Güz\C# Programlama\MagicSquare\MagicSquare\obj\Debug\MagicSquare.csprojAssemblyReference.cache
+D:\Bilgisayar Programcılığı\2. Sınıf\Güz\C# Programlama\MagicSquare\MagicSquare\obj\Debug\MagicSquare.csproj.CoreCompileInputs.cache
+D:\Bilgisayar Programcılığı\2. Sınıf\Güz\C# Programlama\MagicSquare\MagicSquare\obj\Debug\MagicSquare.exe
+D:\Bilgisayar Programcılığı\2. Sınıf\Güz\C# Programlama\MagicSquare\MagicSquare\obj\Debug\MagicSquare.pdb
